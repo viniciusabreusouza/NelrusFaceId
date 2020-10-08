@@ -1,4 +1,4 @@
-# NelrusFaceId
+# Nelrus Face Id
 
 
 Projeto utilizando WPF para criar um pequeno App para detecção de facial.
